@@ -4,6 +4,13 @@
 En mismo consta de 2 proyectos, uno Backend implementado en el lenguaje de programación JAVA, utilizando Spring Boot.<br>
 Por otra parte el Frontend se implementa con el framework Angular.<br>
 <p>
+<br>
+<h2>Video demostrativo 🎬</h2>
+<p>https://github.com/dlqq4/RetoSofka_Frontend.git<p>
+<br>
+<h2>Repositorio Frontend 📌</h2>
+<p>https://github.com/dlqq4/RetoSofka_Frontend.git<p>
+<br>
 <h2>Backend:</h2>
 <p>Spring Boot 2.7.3<br>
 Java 8<br>
@@ -30,9 +37,6 @@ Spring Boot Dev Tools<br>
 
 ![Arquitectura](https://user-images.githubusercontent.com/65242076/191196673-f172309f-4090-4c43-8c8c-a9251940ffbe.jpg)
 <br>
-<h2>Link Repositorio Frontend 📌</h2>
 
-<p>https://github.com/dlqq4/RetoSofka_Frontend.git<br>
-<br>
 <h2> Autor ✒️<h2>
 <p>Bruno Fernández<p>
