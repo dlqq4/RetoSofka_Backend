@@ -32,7 +32,7 @@ Spring Boot Dev Tools<br>
 <br>
 <h2>Link Repositorio Frontend 📌</h2>
 
-<p>https://github.com/dlqq4/RetoSofka_Backend/tree/master<br>
+<p>https://github.com/dlqq4/RetoSofka_Frontend.git<br>
 <br>
 <h2> Autor ✒️<h2>
 <p>Bruno Fernández<p>
