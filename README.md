@@ -1,7 +1,8 @@
-<h1>Estación Espacial Backend - Bruno Fernández</h1>
+<h1>Backend - Estación Espacial - 🚀</h1>
 <br>
-<p>En este repositorio se entrega la implementación del  Backend correspondiente a el reto técnico “ESTACIÓN ESPACIAL SOFKA ”.<p>
-<h3>Backend:</h3>
+<p>En este repositorio se entrega la implementación del  Backend correspondiente a el reto técnico “ESTACIÓN ESPACIAL SOFKA ”.<br>
+En mismo se desarrolla aplicando conceptos claves de programación orientada a objetos.<p>
+<h2>Backend:</h2>
 <p>Spring Boot 2.7.3<br>
 Java 8<br>
 Oracle Open JDK 1.8.0.241<br>
@@ -9,11 +10,31 @@ Maven<br>
 Intellij Idea Ultimate Edition 2022.2<br>
 MySQL<br>
 </p>
-<h3>Frontend:</h3>
+<h2>Frontend:</h2>
 <p>Angular CLI 14.2.1<br>
 </p>
 <br>
-<h2> Arquitectura del Proyecto: </h2>
+<h2>Dependencias utilizadas 🔧</h2>
+En primer lugar se configuraron las dependencias mediante Spring Initializer
+<p>
+Spring Data JPA<br>
+Spring WEB<br>
+MySQL Driver<br>
+Spring Boot Dev Tools<br>
+</p>
 
-#
+
+
+
+
+
+<h2> Arquitectura del Proyecto 📋 </h2>
+
 ![Arquitectura](https://user-images.githubusercontent.com/65242076/191196673-f172309f-4090-4c43-8c8c-a9251940ffbe.jpg)
+<br>
+<h2>Link Repositorio Frontend 📌</h2>
+
+<p>https://github.com/dlqq4/RetoSofka_Backend/tree/master<br>
+<br>
+<h2> Autor ✒️<h2>
+<p>Bruno Fernández<p>
