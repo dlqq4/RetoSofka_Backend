@@ -1,7 +1,9 @@
 <h1>Backend - Estación Espacial - 🚀</h1>
 <br>
 <p>En este repositorio se entrega la implementación del  Backend correspondiente a el reto técnico “ESTACIÓN ESPACIAL SOFKA ”.<br>
-En mismo se desarrolla aplicando conceptos claves de programación orientada a objetos.<p>
+En mismo consta de 2 proyectos, uno Backend implementado en el lenguaje de programación JAVA, utilizando Spring Boot.<br>
+Por otra parte el Frontend se implementa con el framework Angular.<br>
+<p>
 <h2>Backend:</h2>
 <p>Spring Boot 2.7.3<br>
 Java 8<br>
@@ -22,11 +24,7 @@ Spring WEB<br>
 MySQL Driver<br>
 Spring Boot Dev Tools<br>
 </p>
-
-
-
-
-
+<br>
 
 <h2> Arquitectura del Proyecto 📋 </h2>
 
