@@ -3,10 +3,21 @@
 <p>En este repositorio se entrega la implementación del  Backend correspondiente a el reto técnico “ESTACIÓN ESPACIAL SOFKA ”.<br>
 En mismo consta de 2 proyectos, uno Backend implementado en el lenguaje de programación JAVA, utilizando Spring Boot.<br>
 Por otra parte el Frontend se implementa con el framework Angular.<br>
+  
+  
+  
+  ![mini](https://user-images.githubusercontent.com/65242076/191353077-b90e1759-7811-4d64-b638-6f132c3c671e.jpg)
+
+  
+  
+  
+  
+  
+  
 <p>
 <br>
 <h2>Video demostrativo 🎬</h2>
-<p>https://github.com/dlqq4/RetoSofka_Frontend.git<p>
+<p>https://youtu.be/unk9YnE5BIU<p>
 <br>
 <h2>Repositorio Frontend 📌</h2>
 <p>https://github.com/dlqq4/RetoSofka_Frontend.git<p>
